@@ -1,0 +1,2 @@
+# Intelligent-Medicine-Box-For-Medication-Management-Using-IOT
+The Intelligent Medicine Box is an IoT-based healthcare system designed to help patients manage their medication schedules effectively. The system provides timely reminders for medicine intake, monitors medication usage, and reduces the chances of missed or incorrect doses. This project is especially useful for elderly people, patients with
